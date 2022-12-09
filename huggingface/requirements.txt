@@ -2,3 +2,6 @@ torch
 numpy
 transformers
 gradio
+deepl
+openai
+pytube

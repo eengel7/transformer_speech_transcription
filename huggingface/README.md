@@ -1,8 +1,8 @@
 ---
-title: Whisper Swedish Audio Text
-emoji: ⚡
-colorFrom: blue
-colorTo: red
+title: Whisper Swedish To English
+emoji: 🎤
+colorFrom: yellow
+colorTo: indigo
 sdk: gradio
 sdk_version: 3.12.0
 app_file: app.py

@@ -1,2 +1,18 @@
-# transformer_speech_transcription
-Transformer to transcribe English audio to text
+# Swedish Survival Kit
+### Authors: Tori Leatherman & Eva Engel
+
+## Introduction
+
+#Scalable ML System
+
+## Feature Pipeline
+
+## Training Pipeline
+
+Dashboard, 
+
+# Huggingface Space
+
+# Model Improvements
+
+

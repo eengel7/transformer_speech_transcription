@@ -19,7 +19,8 @@ Although we use a pre-trained transformer model, there are various possibilities
 
 ### Model-Centric
 Starting with model-centric improvements, we could change the model architecture in general. In our case, OpenAI provides 5+ different transformer sizes:
-ADD PIC
+
+![OpenAI Models](https://miro.medium.com/max/1400/1*_xEqgvZDExxNMaeojLQlDg.png) 
 
 Depending on the size of the available data, one can choose a bigger architecture that consists of more parameters. However, this might lead to an overfit or to not having enough resources to train the model.
 Secondly, the results could likely be improved by optimising the training hyperparameters, such as learning rate and dropout. Hyperparameters can be tested using a grid search or a random search in order to try different values in combination that may improve the model performance. 
